@@ -1,0 +1,31 @@
+Map,Player Name,Team Name,Hero Name,Rating,ACS,KDA,PM,KAST,ADR,HS,FK,FD,FPM
+all,t3xture,GEN,"['Raze', 'Jett']",1.17,276,41/30/6,11,68%,169,27%,8,7,1
+all,Munchkin,GEN,"['Viper', 'Kayo']",1.05,224,32/32/17,0,76%,146,22%,3,5,-2
+all,Meteor,GEN,['Killjoy'],0.64,188,26/36/5,-10,56%,125,33%,3,4,-1
+all,Karon,GEN,"['Omen', 'Viper']",0.58,125,18/33/12,-15,66%,88,28%,2,3,-1
+all,Lakia,GEN,"['Fade', 'Gekko']",0.47,83,9/30/11,-21,71%,56,22%,2,4,-2
+all,TenZ,SEN,"['Omen', 'Kayo']",1.33,227,34/25/25,9,83%,142,21%,2,2,0
+all,Sacy,SEN,"['Fade', 'Sova']",1.24,215,28/27/19,1,78%,149,18%,3,6,-3
+all,johnqt,SEN,['Viper'],1.24,174,26/22/20,4,83%,112,12%,4,1,3
+all,zekken,SEN,"['Raze', 'Jett']",1.2,245,40/28/11,12,73%,153,26%,9,5,4
+all,Zellsis,SEN,['Killjoy'],1.14,219,33/24/6,9,80%,135,16%,5,4,1
+Lotus,t3xture,GEN,['Raze'],1.32,290,23/15/4,8,73%,181,21%,5,3,2
+Lotus,Munchkin,GEN,['Viper'],1.31,272,21/16/8,5,82%,179,19%,2,2,0
+Lotus,Karon,GEN,['Omen'],0.71,131,10/17/10,-7,73%,94,30%,0,3,-3
+Lotus,Lakia,GEN,['Fade'],0.53,76,4/15/7,-11,82%,49,20%,1,2,-1
+Lotus,Meteor,GEN,['Killjoy'],0.49,153,12/18/2,-6,50%,101,24%,1,3,-2
+Lotus,johnqt,SEN,['Viper'],1.28,188,15/12/11,3,82%,120,9%,3,0,3
+Lotus,zekken,SEN,['Raze'],1.26,267,23/16/7,7,73%,154,23%,5,3,2
+Lotus,Zellsis,SEN,['Killjoy'],1.21,245,20/13/3,7,82%,148,15%,4,1,3
+Lotus,TenZ,SEN,['Omen'],1.16,166,14/12/9,2,73%,120,18%,1,1,0
+Lotus,Sacy,SEN,['Fade'],0.87,156,9/17/14,-8,77%,118,12%,0,4,-4
+Icebox,t3xture,GEN,['Jett'],1.03,261,18/15/2,3,63%,156,34%,3,4,-1
+Icebox,Munchkin,GEN,['Kayo'],0.79,175,11/16/9,-5,68%,107,26%,1,3,-2
+Icebox,Meteor,GEN,['Killjoy'],0.78,223,14/18/3,-4,63%,153,43%,2,1,1
+Icebox,Karon,GEN,['Viper'],0.46,119,8/16/2,-8,58%,82,24%,2,0,2
+Icebox,Lakia,GEN,['Gekko'],0.41,90,5/15/4,-10,58%,64,24%,1,2,-1
+Icebox,Sacy,SEN,['Sova'],1.61,273,19/10/5,9,79%,184,29%,3,2,1
+Icebox,TenZ,SEN,['Kayo'],1.51,287,20/13/16,7,95%,167,23%,1,1,0
+Icebox,johnqt,SEN,['Viper'],1.19,159,11/10/9,1,84%,101,19%,1,1,0
+Icebox,zekken,SEN,['Jett'],1.14,223,17/12/4,5,74%,152,31%,4,2,2
+Icebox,Zellsis,SEN,['Killjoy'],1.06,192,13/11/3,2,79%,121,19%,1,3,-2

@@ -1,0 +1,31 @@
+Map,Player Name,Team Name,Hero Name,Rating,ACS,KDA,PM,KAST,ADR,HS,FK,FD,FPM
+all,yetujey,FUT,"['Cypher', 'Viper']",1.12,242,36/31/4,5,65%,156,33%,10,3,7
+all,cNed,FUT,['Raze'],1.0,234,35/34/6,1,63%,158,22%,4,3,1
+all,AtaKaptan,FUT,"['Omen', 'Brimstone']",0.82,153,22/29/14,-7,58%,105,30%,2,7,-5
+all,qRaxs,FUT,"['Gekko', 'Fade']",0.79,138,22/32/11,-10,65%,93,33%,2,5,-3
+all,MrFaliN,FUT,"['Breach', 'Gekko']",0.77,168,24/32/14,-8,67%,115,28%,2,5,-3
+all,mindfreak,PRX,"['Omen', 'Brimstone']",1.21,209,33/27/22,6,84%,137,37%,1,0,1
+all,d4v41,PRX,"['Sage', 'Viper']",1.21,222,34/27/10,7,77%,153,32%,2,1,1
+all,Jinggg,PRX,['Raze'],1.17,261,37/30/13,7,70%,158,23%,11,9,2
+all,something,PRX,['Gekko'],1.02,194,29/29/16,0,77%,133,33%,5,6,-1
+all,f0rsakeN,PRX,"['Breach', 'Fade']",0.95,153,24/26/19,-2,81%,103,39%,4,4,0
+Sunset,yetujey,FUT,['Cypher'],1.15,231,19/17/2,2,63%,158,33%,7,2,5
+Sunset,cNed,FUT,['Raze'],1.14,262,21/17/4,4,67%,179,20%,3,2,1
+Sunset,AtaKaptan,FUT,['Omen'],1.07,181,15/14/10,1,71%,120,39%,2,2,0
+Sunset,qRaxs,FUT,['Gekko'],0.95,185,17/17/6,0,75%,119,42%,1,3,-2
+Sunset,MrFaliN,FUT,['Breach'],0.77,171,13/18/9,-5,71%,116,31%,2,0,2
+Sunset,d4v41,PRX,['Sage'],1.16,203,19/15/5,4,75%,138,33%,1,1,0
+Sunset,mindfreak,PRX,['Omen'],1.12,230,22/18/6,4,83%,150,34%,0,0,0
+Sunset,Jinggg,PRX,['Raze'],1.02,213,16/17/10,-1,58%,147,19%,3,7,-4
+Sunset,something,PRX,['Gekko'],0.99,200,15/17/10,-2,75%,142,37%,2,5,-3
+Sunset,f0rsakeN,PRX,['Breach'],0.74,149,11/18/13,-7,79%,95,46%,3,2,1
+Bind,yetujey,FUT,['Viper'],1.09,252,17/14/2,3,68%,153,33%,3,1,2
+Bind,cNed,FUT,['Raze'],0.86,206,14/17/2,-3,58%,132,24%,1,1,0
+Bind,MrFaliN,FUT,['Gekko'],0.78,165,11/14/5,-3,63%,114,23%,0,5,-5
+Bind,qRaxs,FUT,['Fade'],0.62,90,5/15/5,-10,53%,61,19%,1,2,-1
+Bind,AtaKaptan,FUT,['Brimstone'],0.56,125,7/15/4,-8,42%,87,16%,0,5,-5
+Bind,Jinggg,PRX,['Raze'],1.32,308,21/13/3,8,84%,172,28%,8,2,6
+Bind,mindfreak,PRX,['Brimstone'],1.29,187,11/9/16,2,84%,121,42%,1,0,1
+Bind,d4v41,PRX,['Viper'],1.25,240,15/12/5,3,79%,171,31%,1,0,1
+Bind,f0rsakeN,PRX,['Fade'],1.15,157,13/8/6,5,84%,113,33%,1,2,-1
+Bind,something,PRX,['Gekko'],1.04,187,14/12/6,2,79%,121,27%,3,1,2

@@ -1,0 +1,31 @@
+Map,Player Name,Team Name,Hero Name,Rating,ACS,KDA,PM,KAST,ADR,HS,FK,FD,FPM
+all,Smoggy,EDG,"['Clove', 'Brimstone']",1.41,279,46/25/13,21,84%,176,30%,2,5,-3
+all,CHICHOO,EDG,"['Omen', 'Viper']",1.26,243,35/28/23,7,84%,166,28%,6,4,2
+all,ZmjjKK,EDG,"['Neon', 'Raze']",0.97,207,33/32/13,1,69%,130,20%,7,9,-2
+all,nobody,EDG,"['Fade', 'Gekko']",0.87,152,25/32/12,-7,71%,99,22%,3,7,-4
+all,S1Mon,EDG,"['Breach', 'Fade']",0.8,130,20/30/19,-10,73%,84,24%,1,1,0
+all,qRaxs,FUT,"['Breach', 'Fade']",1.12,174,28/25/15,3,76%,110,26%,2,1,1
+all,yetujey,FUT,"['Cypher', 'Viper']",0.99,222,36/32/12,4,73%,135,27%,7,4,3
+all,cNed,FUT,"['Jett', 'Raze']",0.96,211,33/35/5,-2,71%,145,30%,12,9,3
+all,MrFaliN,FUT,"['Omen', 'Gekko']",0.88,178,25/33/17,-8,73%,112,22%,3,3,0
+all,AtaKaptan,FUT,"['Viper', 'Brimstone']",0.87,169,25/34/16,-9,69%,107,19%,2,2,0
+Lotus,CHICHOO,EDG,['Omen'],1.27,231,16/12/14,4,91%,152,33%,2,1,1
+Lotus,Smoggy,EDG,['Clove'],1.26,283,23/15/7,8,77%,180,24%,1,4,-3
+Lotus,nobody,EDG,['Fade'],1.09,213,18/15/6,3,77%,137,27%,3,2,1
+Lotus,ZmjjKK,EDG,['Neon'],0.72,195,14/19/8,-5,68%,119,19%,5,4,1
+Lotus,S1Mon,EDG,['Breach'],0.67,128,9/16/12,-7,77%,91,19%,0,0,0
+Lotus,qRaxs,FUT,['Breach'],1.14,189,15/14/7,1,73%,129,30%,0,1,-1
+Lotus,yetujey,FUT,['Cypher'],1.13,235,19/15/6,4,82%,141,27%,3,2,1
+Lotus,AtaKaptan,FUT,['Viper'],1.02,187,13/17/8,-4,73%,119,18%,0,0,0
+Lotus,MrFaliN,FUT,['Omen'],0.98,216,16/17/8,-1,77%,123,24%,1,2,-1
+Lotus,cNed,FUT,['Jett'],0.9,193,14/17/3,-3,68%,131,32%,7,6,1
+Bind,Smoggy,EDG,['Brimstone'],1.55,274,23/10/6,13,91%,173,38%,1,1,0
+Bind,CHICHOO,EDG,['Viper'],1.24,255,19/16/9,3,78%,178,25%,4,3,1
+Bind,ZmjjKK,EDG,['Raze'],1.23,218,19/13/5,6,70%,141,21%,2,5,-3
+Bind,S1Mon,EDG,['Fade'],0.93,131,11/14/7,-3,70%,78,29%,1,1,0
+Bind,nobody,EDG,['Gekko'],0.65,90,7/17/6,-10,65%,62,14%,0,5,-5
+Bind,qRaxs,FUT,['Fade'],1.1,158,13/11/8,2,78%,92,22%,2,0,2
+Bind,cNed,FUT,['Raze'],1.02,228,19/18/2,1,74%,159,29%,5,3,2
+Bind,yetujey,FUT,['Viper'],0.85,209,17/17/6,0,65%,129,27%,4,2,2
+Bind,MrFaliN,FUT,['Gekko'],0.79,139,9/16/9,-7,70%,100,20%,2,1,1
+Bind,AtaKaptan,FUT,['Brimstone'],0.72,150,12/17/8,-5,65%,96,20%,2,2,0

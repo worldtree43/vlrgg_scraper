@@ -1,0 +1,31 @@
+Map,Player Name,Team Name,Hero Name,Rating,ACS,KDA,PM,KAST,ADR,HS,FK,FD,FPM
+all,zekken,SEN,['Raze'],1.49,275,39/24/12,15,79%,177,22%,9,5,4
+all,TenZ,SEN,"['Gekko', 'Omen']",1.24,234,33/23/15,10,79%,148,19%,4,2,2
+all,johnqt,SEN,['Viper'],1.19,160,22/16/11,6,79%,110,20%,4,3,1
+all,Sacy,SEN,['Fade'],1.13,201,25/24/28,1,79%,141,20%,3,3,0
+all,Zellsis,SEN,"['Brimstone', 'Killjoy']",1.06,181,26/20/13,6,77%,106,19%,2,4,-2
+all,BerLIN,FPX,"['Omen', 'Breach']",1.0,203,26/28/14,-2,62%,134,24%,3,3,0
+all,Autumn,FPX,['Chamber'],0.91,222,32/31/1,1,64%,129,38%,10,5,5
+all,AAAAY,FPX,"['Fade', 'Gekko']",0.81,121,16/25/9,-9,67%,85,20%,1,2,-1
+all,Life,FPX,"['Yoru', 'Viper']",0.69,163,22/32/4,-10,56%,104,36%,3,10,-7
+all,Lysoar,FPX,"['Viper', 'Omen']",0.61,91,11/29/13,-18,59%,66,27%,0,2,-2
+Bind,zekken,SEN,['Raze'],1.4,262,20/13/8,7,86%,162,21%,3,3,0
+Bind,johnqt,SEN,['Viper'],1.18,164,12/9/6,3,76%,107,25%,2,2,0
+Bind,TenZ,SEN,['Gekko'],1.11,185,14/12/5,2,71%,120,21%,2,1,1
+Bind,Zellsis,SEN,['Brimstone'],1.08,221,17/14/11,3,76%,112,16%,1,3,-2
+Bind,Sacy,SEN,['Fade'],0.98,172,11/14/15,-3,81%,137,28%,2,2,0
+Bind,BerLIN,FPX,['Omen'],1.06,197,15/14/5,1,71%,137,24%,3,1,2
+Bind,Autumn,FPX,['Chamber'],1.03,253,20/16/0,4,76%,143,44%,5,2,3
+Bind,AAAAY,FPX,['Fade'],0.95,137,10/12/6,-2,62%,106,24%,0,1,-1
+Bind,Life,FPX,['Yoru'],0.77,174,12/17/3,-5,57%,120,39%,3,5,-2
+Bind,Lysoar,FPX,['Viper'],0.66,84,5/15/10,-10,52%,70,29%,0,1,-1
+Lotus,zekken,SEN,['Raze'],1.57,288,19/11/4,8,72%,195,24%,6,2,4
+Lotus,TenZ,SEN,['Omen'],1.37,282,19/11/10,8,89%,181,19%,2,1,1
+Lotus,Sacy,SEN,['Fade'],1.28,230,14/10/13,4,78%,146,15%,1,1,0
+Lotus,johnqt,SEN,['Viper'],1.21,156,10/7/5,3,83%,114,15%,2,1,1
+Lotus,Zellsis,SEN,['Killjoy'],1.04,141,9/6/2,3,78%,99,23%,1,1,0
+Lotus,BerLIN,FPX,['Breach'],0.94,208,11/14/9,-3,50%,131,24%,0,2,-2
+Lotus,Autumn,FPX,['Chamber'],0.79,190,12/15/1,-3,50%,112,30%,5,3,2
+Lotus,AAAAY,FPX,['Gekko'],0.66,105,6/13/3,-7,72%,60,13%,1,1,0
+Lotus,Life,FPX,['Viper'],0.61,151,10/15/1,-5,56%,86,32%,0,5,-5
+Lotus,Lysoar,FPX,['Omen'],0.56,97,6/14/3,-8,67%,61,26%,0,1,-1

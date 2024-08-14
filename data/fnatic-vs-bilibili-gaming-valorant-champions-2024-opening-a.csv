@@ -1,0 +1,31 @@
+Map,Player Name,Team Name,Hero Name,Rating,ACS,KDA,PM,KAST,ADR,HS,FK,FD,FPM
+all,hiro,FNC,['Fade'],1.36,218,29/20/15,9,77%,138,41%,2,4,-2
+all,Chronicle,FNC,['Viper'],1.32,244,35/23/10,12,74%,159,28%,8,2,6
+all,Derke,FNC,['Raze'],1.2,227,33/24/8,9,67%,148,15%,6,4,2
+all,Boaster,FNC,"['Astra', 'Omen']",1.18,166,23/19/18,4,85%,110,31%,3,3,0
+all,Alfajer,FNC,"['Gekko', 'Killjoy']",0.84,191,26/29/9,-3,69%,133,32%,3,4,-1
+all,whzy,BLG,"['Raze', 'Neon']",1.01,259,35/31/5,4,74%,162,21%,6,8,-2
+all,nephh,BLG,"['Skye', 'Fade']",0.91,199,26/29/13,-3,62%,122,22%,3,3,0
+all,Knight,BLG,"['Cypher', 'Breach']",0.85,153,22/29/13,-7,64%,103,28%,2,3,-1
+all,Yosemite,BLG,"['Viper', 'Cypher']",0.69,118,14/28/11,-14,56%,83,25%,3,6,-3
+all,Flex1n,BLG,"['Brimstone', 'Omen']",0.69,139,18/30/13,-12,67%,95,32%,3,2,1
+Bind,Chronicle,FNC,['Viper'],1.37,251,19/14/8,5,73%,174,35%,4,2,2
+Bind,Derke,FNC,['Raze'],1.23,232,19/14/4,5,59%,152,19%,1,2,-1
+Bind,Boaster,FNC,['Astra'],0.98,151,10/13/10,-3,77%,107,23%,2,1,1
+Bind,hiro,FNC,['Fade'],0.92,133,10/13/5,-3,64%,95,39%,1,4,-3
+Bind,Alfajer,FNC,['Gekko'],0.88,196,15/16/4,-1,59%,133,31%,1,4,-3
+Bind,whzy,BLG,['Raze'],1.25,305,23/16/1,7,82%,191,26%,4,2,2
+Bind,nephh,BLG,['Skye'],1.02,190,13/14/12,-1,68%,125,20%,3,1,2
+Bind,Knight,BLG,['Cypher'],0.92,166,14/14/5,0,59%,109,26%,1,1,0
+Bind,Flex1n,BLG,['Brimstone'],0.86,169,12/16/7,-4,64%,114,41%,3,0,3
+Bind,Yosemite,BLG,['Viper'],0.73,120,8/14/8,-6,55%,90,20%,2,5,-3
+Lotus,hiro,FNC,['Fade'],1.81,303,19/7/10,12,94%,195,42%,1,0,1
+Lotus,Boaster,FNC,['Omen'],1.39,181,13/6/8,7,94%,115,42%,1,2,-1
+Lotus,Chronicle,FNC,['Viper'],1.27,236,16/9/2,7,76%,141,20%,4,0,4
+Lotus,Derke,FNC,['Raze'],1.18,222,14/10/4,4,76%,144,10%,5,2,3
+Lotus,Alfajer,FNC,['Killjoy'],0.79,185,11/13/5,-2,82%,133,33%,2,0,2
+Lotus,nephh,BLG,['Fade'],0.81,208,13/15/1,-2,53%,119,24%,0,2,-2
+Lotus,Knight,BLG,['Breach'],0.78,140,8/15/8,-7,71%,95,32%,1,2,-1
+Lotus,whzy,BLG,['Neon'],0.76,213,12/15/4,-3,65%,124,14%,2,6,-4
+Lotus,Yosemite,BLG,['Cypher'],0.65,115,6/14/3,-8,59%,75,33%,1,1,0
+Lotus,Flex1n,BLG,['Omen'],0.52,108,6/14/6,-8,71%,71,24%,0,2,-2

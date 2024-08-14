@@ -1,0 +1,31 @@
+Map,Player Name,Team Name,Hero Name,Rating,ACS,KDA,PM,KAST,ADR,HS,FK,FD,FPM
+all,t3xture,GEN,['Jett'],1.34,257,38/23/8,15,83%,160,30%,7,6,1
+all,Karon,GEN,['Omen'],1.24,225,34/23/23,11,88%,138,33%,2,3,-1
+all,Meteor,GEN,['Killjoy'],1.23,227,35/20/6,15,80%,156,30%,3,6,-3
+all,Munchkin,GEN,"['Viper', 'Kayo']",1.04,204,27/28/21,-1,83%,132,23%,5,2,3
+all,Lakia,GEN,"['Skye', 'Sova']",0.85,141,21/25/6,-4,73%,100,23%,4,3,1
+all,Sacy,SEN,['Sova'],1.32,248,34/27/17,7,78%,163,23%,4,1,3
+all,Zellsis,SEN,"['Breach', 'Cypher']",0.86,142,21/30/15,-9,63%,89,26%,6,4,2
+all,TenZ,SEN,['Omen'],0.85,182,25/32/14,-7,73%,118,23%,5,7,-2
+all,johnqt,SEN,"['Cypher', 'Deadlock']",0.81,129,19/30/7,-11,61%,85,32%,2,0,2
+all,zekken,SEN,['Jett'],0.55,146,19/36/7,-17,54%,96,12%,3,9,-6
+Haven,t3xture,GEN,['Jett'],1.49,305,24/12/4,12,81%,188,31%,3,4,-1
+Haven,Meteor,GEN,['Killjoy'],1.2,221,17/10/4,7,76%,140,26%,1,4,-3
+Haven,Lakia,GEN,['Skye'],1.11,185,15/12/4,3,86%,134,26%,2,1,1
+Haven,Karon,GEN,['Omen'],0.99,188,14/12/12,2,86%,119,42%,1,1,0
+Haven,Munchkin,GEN,['Viper'],0.78,145,9/15/7,-6,76%,96,24%,3,1,2
+Haven,Sacy,SEN,['Sova'],1.23,245,19/15/5,4,76%,157,52%,2,1,1
+Haven,TenZ,SEN,['Omen'],1.12,226,15/15/11,0,81%,146,16%,3,4,-1
+Haven,Zellsis,SEN,['Breach'],1.01,152,11/14/12,-3,71%,95,38%,3,1,2
+Haven,johnqt,SEN,['Cypher'],0.79,132,9/16/3,-7,57%,93,50%,2,0,2
+Haven,zekken,SEN,['Jett'],0.44,115,7/19/4,-12,48%,76,22%,1,4,-3
+Ascent,Karon,GEN,['Omen'],1.49,261,20/11/11,9,90%,158,27%,1,2,-1
+Ascent,Munchkin,GEN,['Kayo'],1.3,262,18/13/14,5,90%,168,22%,2,1,1
+Ascent,Meteor,GEN,['Killjoy'],1.25,233,18/10/2,8,85%,172,34%,2,2,0
+Ascent,t3xture,GEN,['Jett'],1.19,208,14/11/4,3,85%,129,28%,4,2,2
+Ascent,Lakia,GEN,['Sova'],0.6,96,6/13/2,-7,60%,64,17%,2,2,0
+Ascent,Sacy,SEN,['Sova'],1.4,250,15/12/12,3,80%,169,12%,2,0,2
+Ascent,johnqt,SEN,['Deadlock'],0.83,125,10/14/4,-4,65%,76,16%,0,0,0
+Ascent,Zellsis,SEN,['Cypher'],0.72,131,10/16/3,-6,55%,83,18%,3,3,0
+Ascent,zekken,SEN,['Jett'],0.66,176,12/17/3,-5,60%,117,7%,2,5,-3
+Ascent,TenZ,SEN,['Omen'],0.58,138,10/17/3,-7,65%,89,43%,2,3,-1

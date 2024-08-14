@@ -1,6 +1,6 @@
 
 from get_url import *
-from vlr_spider import *
+from get_match_data import *
 from save import *
 
 def main():
@@ -25,8 +25,6 @@ def main():
 
         save_to_csv(data,f'{match_name[i]}.csv','data')
         print(f'{match_name[i]} succesfully saved!')
-
-
 
 
 if __name__ == "__main__":

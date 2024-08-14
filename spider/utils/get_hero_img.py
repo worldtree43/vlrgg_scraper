@@ -26,7 +26,7 @@ for img in hero_src:
     hero_full_src = 'https://www.vlr.gg'+img
     img_response = requests.get(hero_full_src)
     img_name = img.split('/')[-1]
-    img_path = os.path.join('../img',f'{img_name}')
+    img_path = os.path.join('.../img/hero_img',f'{img_name}')
     with open(img_path, 'wb') as file:
         file.write(img_response.content)
 

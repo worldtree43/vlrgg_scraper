@@ -26,16 +26,17 @@ for img in img_elements:
         if img_src not in team_src:
             team_src.append(img_src)
 
-print(team_src)
+# print(team_src)
 
-# for img in hero_src:
-#     # print(img)
-#     hero_full_src = 'https://www.vlr.gg'+img
-#     img_response = requests.get(hero_full_src)
-#     img_name = img.split('/')[-1]
-#     img_path = os.path.join('../img/hero_img',f'{img_name}')
-#     with open(img_path, 'wb') as file:
-#         file.write(img_response.content)
+for img in hero_src:
+    # print(img)
+    hero_full_src = 'https://www.vlr.gg'+img
+    img_response = requests.get(hero_full_src)
+    img_name = img.split('/')[-1]
+    print(img_name)
+    img_path = os.path.join('../img/hero_img',f'{img_name}')
+    with open(img_path, 'wb') as file:
+        file.write(img_response.content)
 
 team_names = [
     "EDward Gaming",

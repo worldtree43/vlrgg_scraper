@@ -37,7 +37,7 @@ def main():
     root = tk.Tk()
     root.title("Main Menu")
 
-    data_folder = "../data"
+    data_folder = "../data/match_result_data"
     csv_files = glob.glob(os.path.join(data_folder, "*.csv"))
 
     title_label = tk.Label(root, text="Select a Match to view:", font=('Arial', 14, 'bold'))

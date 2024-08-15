@@ -14,9 +14,13 @@ def main(csv_file):
     maps = data['Map'].unique()
     map_data = {map_name: data[data['Map'] == map_name] for map_name in maps}
 
+    headers = ["Player Name", "Team Name", "Hero Name", "Rating", "ACS", "KDA", "PM", "KAST", "ADR", "HS", "FK", "FD",
+               "FPM"]
+
     def load_hero_images():
         hero_images = {}
         image_folder = '../img/hero_img'
+        image_size = 30
 
         for hero_names in data['Hero Name']:
             heroes = hero_names.strip("[]").replace("'", "").split(", ")
@@ -24,7 +28,7 @@ def main(csv_file):
                 processed_name = hero_name.lower()
                 image_path = os.path.join(image_folder, f"{processed_name}.png")
                 if os.path.exists(image_path):
-                    hero_images[hero_name] = ImageTk.PhotoImage(Image.open(image_path).resize((50, 50)))
+                    hero_images[hero_name] = ImageTk.PhotoImage(Image.open(image_path).resize((image_size, image_size)))
 
         return hero_images
 
@@ -35,7 +39,7 @@ def main(csv_file):
             widget.destroy()
 
         for col, header in enumerate(headers):
-            header_label = ttk.Label(frame, text=header, font=('Arial', 10, 'bold'))
+            header_label = ttk.Label(frame, text=header, font=('Arial', 12, 'bold'))
             header_label.grid(row=0, column=col, padx=5, pady=5)
 
         current_data = map_data[selected_map]
@@ -62,10 +66,14 @@ def main(csv_file):
                             image_label.pack(side=tk.LEFT)
                 else:
                     color = 'black'
-                    if header == 'KDA':
-                        k, d, a = map(int, value.split('/'))
-                        color = 'green' if k > d else 'red'
-                    label = ttk.Label(frame, text=value, font=('Arial', 10), foreground=color)
+                    if header in ['PM','FPM']:
+                        nvalue = float(value)
+                        if nvalue < 0:
+                            color = 'red'
+                        elif nvalue > 0:
+                            color = 'green'
+                            value = f'+{value}'
+                    label = tk.Label(frame, text=value, font=('Arial', 10), foreground=color, bg='#e0e0e0', padx=3, pady=2)
                     label.grid(row=actual_row, column=col_index, padx=5, pady=5)
 
     button_frame = tk.Frame(root)
@@ -78,9 +86,6 @@ def main(csv_file):
 
     frame = ttk.Frame(root)
     frame.pack(padx=10, pady=10)
-
-    headers = ["Player Name", "Team Name", "Hero Name", "Rating", "ACS", "KDA", "PM", "KAST", "ADR", "HS", "FK", "FD",
-               "FPM"]
 
     update_table(maps[0])
 

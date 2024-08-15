@@ -23,7 +23,7 @@ def main():
             data += detailed_data
         # print(data)
 
-        save_to_csv(data,f'{match_name[i]}.csv','data')
+        save_to_csv(data,f'{match_name[i]}.csv','../data')
         print(f'{match_name[i]} succesfully saved!')
 
 

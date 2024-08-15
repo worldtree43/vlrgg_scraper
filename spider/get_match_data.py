@@ -76,7 +76,7 @@ def get_data(url, map_no):
                 kill = int(soup.select_one(f'#wrapper > div.col-container > div.col.mod-3 > div:nth-child(6) > div > div.vm-stats-container > div:nth-child({map_no}) > div:nth-child(4) > div:nth-child({team_no}) > table > tbody > tr:nth-child({player_no}) > td.mod-stat.mod-vlr-kills > span > span.side.mod-side.mod-both').text.strip())
                 death = int(soup.select_one(f'#wrapper > div.col-container > div.col.mod-3 > div:nth-child(6) > div > div.vm-stats-container > div:nth-child({map_no}) > div:nth-child(4) > div:nth-child({team_no}) > table > tbody > tr:nth-child({player_no}) > td.mod-stat.mod-vlr-deaths > span > span:nth-child(2) > span.side.mod-both').text.strip())
                 assist = int(soup.select_one(f'#wrapper > div.col-container > div.col.mod-3 > div:nth-child(6) > div > div.vm-stats-container > div:nth-child({map_no}) > div:nth-child(4) > div:nth-child({team_no}) > table > tbody > tr:nth-child({player_no}) > td.mod-stat.mod-vlr-assists > span > span.side.mod-both').text.strip())
-                kda = f'{kill}/{death}/{assist}'
+                kda = f'{kill} / {death} / {assist}'
                 pm = kill - death
 
                 kast = soup.select_one(f'#wrapper > div.col-container > div.col.mod-3 > div:nth-child(6) > div > div.vm-stats-container > div:nth-child({map_no}) > div:nth-child(4) > div:nth-child({team_no}) > table > tbody > tr:nth-child({player_no}) > td:nth-child(9) > span > span.side.mod-both').text.strip()
